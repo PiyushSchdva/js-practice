@@ -8,6 +8,8 @@ public class Work {
 
         int number = 24;
         System.out.println("Sum is:" + number);
+        System.out.println("Go");
+        System.out.println("Yes");
     }
 
 
